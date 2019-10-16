@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "9659766ceabcb12759bc4d16b9129496"
+build_time: [1570185143, 770442000]
+inputs:
+  "/Users/sriramparasuram/Workspace/Flutter Apps/navigationapp/ios/Runner/AppDelegate.swift": [1568036092, 0]
